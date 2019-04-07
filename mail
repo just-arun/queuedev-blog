@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+  <a id="mailto" href="mailto:me@domain.com?subject=Call me&body=dummy mail:">
+  touch here</a>
+  <script>
+  document.querySelector("#mailto").click();
+  </script>
+  </body>
+</html>
